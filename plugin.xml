@@ -47,7 +47,7 @@
 
     <!-- js -->
     <js-module src="www/badge.js" name="Badge">
-        <clobbers target="cordova.plugins.notification.badge" />
+        <clobbers target="cordova.plugins.badge" />
     </js-module>
 
     <!-- ios -->
